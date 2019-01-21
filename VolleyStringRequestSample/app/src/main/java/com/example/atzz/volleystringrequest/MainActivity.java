@@ -18,6 +18,11 @@ import com.android.volley.toolbox.DiskBasedCache;
 import com.android.volley.toolbox.HurlStack;
 import com.android.volley.toolbox.StringRequest;
 
+/**
+ * We are using StringRequest as in String request any form of data can be transmitted The response can be json, xml, html,text.
+ * */
+
+
 public class MainActivity extends AppCompatActivity {
 
     private String server_url = "http://www.mocky.io/v2/5c455b46320000ca10af16ae";
