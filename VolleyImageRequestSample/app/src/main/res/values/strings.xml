@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volley Image Request</string>
+    <string name="show_image">Show Image</string>
+</resources>
